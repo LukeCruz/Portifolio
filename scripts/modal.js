@@ -50,7 +50,7 @@ const dataProjects = [
         date: '23 Janeiro de 2023',
         description: `Agência de turismo na região da costa verde, havia uma ddemanda de contato com serviços digitais na empresa no qual eu pude trazer uma versão simples de apresentação dos serviços.`,
         repository: '',
-        site:'https://lumma-agencia.vercel.app'
+        site:'www.lummaparaty.com.br'
 
     },
     {
