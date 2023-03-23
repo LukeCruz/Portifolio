@@ -59,6 +59,7 @@ const dataProjects = [
         date: 'Em desenvolvimento',
         description: "Solução de app de filmes gratuito utilizando Api de filmes com catalogo renovado mensalmente",
         repository: 'https://github.com/LukeCruz/Pirata_flix_app_de_filmes',
+        site: 'pirata-flix-app-de-filmes.vercel.app'
 
     },
     {
