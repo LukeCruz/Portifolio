@@ -3,7 +3,7 @@
 const dataProjects = [
     {
         title: 'Doceria Dleitt Volta Redonda',
-        date: 'Em desenvolvimento',
+        date: 'A iniciar',
         description: `Landing page de mostruário e vendas de unidade de loja de doces <br><br>
 
         Após concluir o evento, adicionei funcionalidades extras, como: <br><br>
@@ -46,6 +46,14 @@ const dataProjects = [
 
     },
     {
+        title: 'Agência Lumma',
+        date: '23 Janeiro de 2023',
+        description: `Agência de turismo na região da costa verde, havia uma ddemanda de contato com serviços digitais na empresa no qual eu pude trazer uma versão simples de apresentação dos serviços.`,
+        repository: '',
+        site:'https://lumma-agencia.vercel.app'
+
+    },
+    {
         title: 'CRUD - talker manager',
         date: '22 de Junho de 2022',
         description: `Uma aplicação de cadastro de talkers (palestrantes) em que é possível cadastrar, visualizar, pesquisar, editar e excluir informações. Para isso foi:🚀 <br><br> 
@@ -63,10 +71,17 @@ const dataProjects = [
 
     },
     {
+        title: 'Online Store',
+        date: '22 de Junho de 2022',
+        description: "Integração com sistema de dados do mercado livre para trazer informações relevantes sobre produtos",
+        repository: 'https://github.com/LukeCruz/online-Store',
+        site: 'https://online-store-two-drab.vercel.app'
+
+    },
+    {
         title: 'SQL consults',
         date: '22 de Junho de 2022',
         description: "Demosntração de consultas via SQL , rodando com docker isoladamente e com balanceamento de carga",
-        videoSrc: '',
         linkedin: '',
         repository: '',
         site: ''
@@ -113,6 +128,14 @@ const dataProjects = [
         repository: 'https://github.com/LukeCruz/Hackathon_CCR_App_Rota64',
 
     },
+    {
+        title: 'Pousada Mamanguá',
+        date: '20 de Abril de 2022',
+        description: `Uma pousada linda, completa e necessitava de um layout novo e clean para seus clientes vizualizarem serviços na internet e encaminha-los para reservas ou contratações`,
+        repository: '',
+        site:'https://posada-mamangua.vercel.app'
+
+    }
     
 
 ]
