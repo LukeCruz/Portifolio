@@ -77,6 +77,7 @@ const dataProjects = [
         date: '03 de Junho de 2021',
         description: "Nesse projeto você vai ter a experiência de pôr em prática o desenvolvimento orientado a testes, o famoso TDD (Test Driven Development)! Que te ajuda a garantir um código de qualidade, percebendo os casos de uso da sua aplicação e garantindo que ela está funcionando da maneira correta! ",
         repository: 'https://github.com/LukeCruz/Shopping_Cart_App',
+        site:'https://shopping-cart-app-gray.vercel.app'
 
     },
     {
@@ -84,7 +85,7 @@ const dataProjects = [
         date: '25 de Setembro de 2020',
         description: "Clone da pagina de cadastramento do Facebook",
         repository: 'https://github.com/LukeCruz/facebook-signUp',
-        site: ''
+        site: 'facebook-sign-up-umber.vercel.app'
 
     },
    {
